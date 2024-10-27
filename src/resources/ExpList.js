@@ -14,11 +14,12 @@ const experienceList = [
     {
       name : "Voice Over LTE (Telcom Project)",
       image : Pic2,
-      technologies : 'Java , DLT Viewer, Source Insight, Ubuntu Linux, Docker & Google Test'
+      technologies : 'Java , RedHat Linux, Bash Script & Amazon Web Services'
     },
     {
       name : "CSV Audit",
-      image : Pic3
+      image : Pic3,
+      technologies : 'Windows PowerShell Script & Event Viewer'
     },
     {
       name : "In-house Management (SQA Testing)",
